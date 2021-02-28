@@ -1,17 +1,17 @@
 # Sepsis Deprehensio 
 
-## Objective 
-
-To utilize the Machine Learning tools in early diagnosis of sepsis for better treatment
-
-## Abstract
+### Problem Statement
 
 A Sepsis is a serious condition resulting from the presence of harmful synthetics in blood or other
 tissues and the body’s response to their presence, potentially leading to the malfunctioning of various
 organs, shock and death. Sepsis is activated by the immune system present in our body that works all the time in order to
 prevent infection from entering into body. During this stage, the enormous number of synthetic substances
 discharged into the blood causes broad irritation. For the patient the practicality of detecting sepsis disease
-occurrence in development is an important factor in the result. The primary goal of our project is to build, train and test a Multi-Layer Perceptron (MLP) model.
+occurrence in development is an important factor in the result. 
+
+### Proposed Solution
+
+The primary goal of our project is to build, train and test a Multi-Layer Perceptron (MLP) model.
 Using data that is available in the form of electronic clinical health data. We can train the system to predict
 outcome of class labels as sepsis or no-sepsis for new health records. The early prediction of sepsis is
 potentially life-saving, and we aim to predict sepsis 6 hours before the clinical prediction of sepsis.
@@ -32,3 +32,10 @@ potentially life-saving, and we aim to predict sepsis 6 hours before the clinica
 
 1. Developing RESTAPI.
 2. Production on GoDaddy.
+
+#### Team Name: Bug Slayers 2.0
+
+#### Team Members
+
+1. Devathi Ram Charan
+2. Bheemireddy Vamsi
